@@ -1,0 +1,19 @@
+{
+  "name": "crash-nodejs",
+  "version": "1.0.0",
+  "description": "Node crash cource",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev" : "nodemon index"
+  },
+  "author": "Veena",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodeman": "^1.1.2",
+    "nodemon": "^2.0.9"
+  }
+}
